@@ -3,8 +3,6 @@
 ## License
 [![License: None](https://img.shields.io/badge/License-None-brightgreen)](https://opensource.org/licenses/None)
 
-
-
 ## Table of Contents
 - [Description](#description)
 - [Installation](#installation)
@@ -20,7 +18,7 @@ This is the premium README generator for all your project development needs! It 
 In order to run README-Platinum, Node must be installed on your computer. Additionally, the node program Inquirer must be installed.
 
 ## Usage
-After running node index.js, the user will be prompted for information that will be entered into the README.
+After running node index.js, the user will be prompted for information that will be entered into the README. Click [here](https://app.screencastify.com/v2/manage/videos/ll87CWLS3hlncJ2IZakD) to see a sample video of how to use the application.
 
 ## Contribution
 In order to contribute, please contact me via my listed contact information.

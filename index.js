@@ -1,5 +1,6 @@
 const inquirer = require('inquirer');
 
+// This function will be called to stylize specific licenses
 function getLicenseNotice(license) {
   switch (license) {
     case 'MIT':
@@ -15,6 +16,7 @@ function getLicenseNotice(license) {
   }
 }
 
+// Collect the data from the user and then log it
 inquirer.prompt([
   { type: 'input', message: 'What is the project title?', name: 'title' },
   { type: 'input', message: 'What is the license?', name: 'license' },
